@@ -1,2 +1,2 @@
-# MrThugtLife.github.io
+# MrThugLife.github.io
 yo welcome to my website
