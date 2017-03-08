@@ -1,2 +1,2 @@
 # MrThugLife.github.io
-yo welcome to my website
+Welcome To My Website
